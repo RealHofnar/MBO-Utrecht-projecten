@@ -140,7 +140,7 @@
 
 .centered {
     position: absolute;
-    top: 20%;
+    top: 10%;
     left: 50%;
     transform: translate(-50%, 50%);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -151,11 +151,45 @@
 
 .centered2 {
     position: absolute;
-    top: 27%;
+    top: 15%;
     left: 50%;
     transform: translate(-50%, 50%);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: x-large;
     font-weight: bold;
     text-shadow: 2px 2px black;
+}
+
+.FAQ {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+
+.ONStekst {
+  position: absolute;
+  top: 27%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  text-shadow: 2px 2px black;
+  color: white;
+}
+
+.ONStekst2 {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  text-shadow: 2px 2px black;
+  color: white;
 }
