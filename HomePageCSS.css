@@ -147,17 +147,29 @@
     font-size: xx-large;
     font-weight: bold;
     text-shadow: 2px 2px black;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid #112031;
+    margin: 0;
+    border-radius: 25px;
+    background: #112031;
 }
 
 .centered2 {
     position: absolute;
-    top: 15%;
+    top: 35%;
     left: 50%;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, 5%);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: x-large;
     font-weight: bold;
     text-shadow: 2px 2px black;
+    width: 320px; 
+    padding: 10px;
+    border: 5px solid #112031;
+    margin: 0;
+    border-radius: 25px;
+    background: #112031
 }
 
 .FAQ {
@@ -192,4 +204,21 @@
   font-size: larger;
   text-shadow: 2px 2px black;
   color: white;
+}
+
+.FAQ {
+  position: absolute;
+  top: 20%;
+  left: 50%;    
+  transform: translate(-50%, 5%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+  width: 320px; 
+  padding: 10px;
+  border: 5px solid #112031;
+  margin: 0;
+  border-radius: 25px;
+  background: #112031
 }
